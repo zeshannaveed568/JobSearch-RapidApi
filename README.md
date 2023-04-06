@@ -34,7 +34,9 @@ Press the "Search" button or hit enter on your keyboard
 The job listings for the search query will be displayed
 Click on the job title to view the original job posting
 ## Screenshots
+
 Screenshot 1
+
 ![Screenshot_1680762597](https://user-images.githubusercontent.com/81668685/230292478-eeccf596-20c0-45f2-872d-c84b00ce759e.jpg)
 
 Screenshot 2
