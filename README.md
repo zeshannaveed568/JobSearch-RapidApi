@@ -1,7 +1,7 @@
-## Job Search App
+# Job Search App
 This is a simple job search application that allows users to search for job listings based on keywords and location. The application uses the RapidAPI JSearch API to fetch job data and displays it in a user-friendly format.
 
-# Features
+## Features
 Search for job listings based on keywords and location
 Displays job title, company name, location, and job description
 Provides a link to the original job posting
